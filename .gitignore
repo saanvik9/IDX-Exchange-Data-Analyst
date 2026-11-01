@@ -1,3 +1,9 @@
 data/
 output/
 *.csv
+.DS_Store
+_pycache_/
+*.pyc
+.ipnb_checkpoints/
+crmls_listed.py
+crmls_sold.py
